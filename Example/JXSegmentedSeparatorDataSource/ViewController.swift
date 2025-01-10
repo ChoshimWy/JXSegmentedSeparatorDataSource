@@ -20,7 +20,7 @@ class ViewController: UIViewController {
             "关注",
             "科技",
         ]
-        dataSource.titleSelectedColor = UIColor.orange
+        dataSource.titleSelectedColor = UIColor.white
         dataSource.titleNormalColor = UIColor.gray
         dataSource.isTitleColorGradientEnabled = true
         dataSource.isTitleZoomEnabled = true
