@@ -1,0 +1,23 @@
+PODS:
+  - JXSegmentedSeparatorDataSource (0.1.0):
+    - JXSegmentedView
+  - JXSegmentedView (1.4.1)
+
+DEPENDENCIES:
+  - JXSegmentedSeparatorDataSource (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - JXSegmentedView
+
+EXTERNAL SOURCES:
+  JXSegmentedSeparatorDataSource:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JXSegmentedSeparatorDataSource: 8502e6c49d201d4dc980ff80688ec782c34cff04
+  JXSegmentedView: cd73555ce2134d1656db2cb383ba9c2f36fb5078
+
+PODFILE CHECKSUM: 1b2ca8022577f14496555b1e41c5a7cd4e74ea1f
+
+COCOAPODS: 1.16.2

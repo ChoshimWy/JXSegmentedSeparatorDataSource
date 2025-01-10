@@ -1,0 +1,25 @@
+{
+  "name": "JXSegmentedSeparatorDataSource",
+  "version": "0.1.0",
+  "summary": "A short description of JXSegmentedSeparatorDataSource.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Choshim.Wei/JXSegmentedSeparatorDataSource",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Choshim.Wei": "choshim@sidus.link"
+  },
+  "source": {
+    "git": "https://github.com/Choshim.Wei/JXSegmentedSeparatorDataSource.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "JXSegmentedSeparatorDataSource/Classes/**/*",
+  "dependencies": {
+    "JXSegmentedView": []
+  }
+}
